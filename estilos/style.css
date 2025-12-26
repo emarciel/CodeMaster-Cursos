@@ -9,12 +9,12 @@ h1 {
 }
 
 body {
-    background-color: rgb(15, 158, 158);
+    background-color: rgba(15, 158, 158, 0.450);
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 800px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgda(0, 0, 0, 0.300);

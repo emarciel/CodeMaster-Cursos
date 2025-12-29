@@ -58,3 +58,11 @@ p.infoCurso {
     display: flex;
     gap: 16px;
 }
+
+.btSair {
+    padding: 8px 16px;
+    background: #4a00aa;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}

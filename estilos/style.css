@@ -38,7 +38,23 @@ img.lado {
     padding: 20px;
 }
 
+img.ladoDirSuperior {
+    display: flex;
+    width: 250px;
+    height: auto;
+    float: right;
+}
+
 p {
     text-align: justify;
     padding: 5px;
+}
+
+p.infoCurso {
+    margin: -4px 0;
+}
+
+.menuLinks {
+    display: flex;
+    gap: 16px;
 }
